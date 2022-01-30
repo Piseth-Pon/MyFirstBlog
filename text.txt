@@ -1,0 +1,60 @@
+body {
+    background-color: blanchedalmond;
+    text-align: center;
+}
+
+
+h1 {
+    color: red;
+    background-color: cadetblue;
+    font-family: cursive;
+    
+    border: 2px solid white;
+    border-radius: 30px;
+}
+
+h2 {
+    color: blue;
+}
+
+h3 {
+    color: brown;
+}
+
+p {
+    color: green;
+    font-weight: 100;
+    font-style: normal;
+}
+
+ul {
+    list-style-type: none;
+}
+
+ul li {
+    color: red;
+}
+
+ol {
+    list-style-type: lower-roman;
+}
+
+ol li {
+    color: blue;
+}
+
+img {
+    width: 200px;
+    height: 200px;
+    border-radius: 50%;
+}
+
+a {
+    text-decoration: none;
+    color: red;
+
+}
+a:hover {
+    font-size: larger;
+    color: blue;
+}
